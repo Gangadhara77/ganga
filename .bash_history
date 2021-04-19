@@ -1073,3 +1073,112 @@ clear
 cd xorp/
 ls
 vi fea
+git init
+git branch
+git status
+git add a--
+git add --a
+git dtatus
+git status
+git add --a
+git add sort.c
+git status
+git commit -m "sort commit"
+git config --global user.name "Your Name"
+git config --global user.name "gangadhara77"
+git config --global user.name "Gangadhara77"
+git status
+git commit -m "sort commit"
+git push
+git push git config --global user.name "Your Name"
+git config --global user.name "Your Name"
+git push git config --global user.name "Your Name"
+git push https://github.com/Gangadhara77/ganga.git
+git branch -M main
+git remote add origin https://github.com/Gangadhara77/ganga.git
+git push -u origin main
+git status
+git add exp.c
+git status
+git add --a
+rm fun.c
+git status
+git add --a
+git status
+git commit -m "all commited"
+git status
+git push
+git status
+clear
+                                                                                                                                                                                                                                                                                     pwd
+l
+ls
+clear
+vi auto.c
+ls
+exit
+vi ganag.txt
+git status
+ctags -R *
+ls
+nano comp.c
+nano auto.c
+ctag -R *
+ctags -R *
+sudo apt install <deb name>
+sudo apt install ctags
+ctags -R *
+q
+nano auto.c
+clear
+git diff
+clear
+ls
+vi auto.c
+ctags -R *
+sudo apt install atags
+sudo apt install ctags
+sudo apt install 
+clear
+sudo apt get install ctags
+sudo apt get install cscope
+clear
+vi auto.c
+gdb -g auto.c
+sudo apt install ctags
+clear
+sudo apt install cscope
+vi auto.c
+ctags -R *
+ctags - R *
+csope -R *
+sudo apt install cscope
+clear
+sudo apt install gdb
+vi auto.c
+gcc auto.c
+./a.out
+gcc auto.c
+gdb -g auto.c
+clear
+gcc -g auto.c
+gdb a.out
+gcc -g auto.c
+gdb a.out
+clear
+ls
+vi malloc.c 
+gcc malloc.c 
+clear
+l
+sudo apt install ctags
+git status
+git add ganag.txt 
+git commit -m "ganag.txt"
+git push
+nano helo.c
+git status
+git add helo.c
+git commit -m "helo commit"
+git push
+                                                                                                                                                                                                   
